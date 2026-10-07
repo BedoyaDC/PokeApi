@@ -81,4 +81,8 @@ resto x1.0. Inicia el de mayor Speed (empate: aleatorio). El HP nunca baja de 0.
 ## Capturas de pantalla
 <img width="690" height="464" alt="Captura de pantalla 2026-10-07 112953" src="https://github.com/user-attachments/assets/bd810e4f-7e08-4150-98db-521b9ec9234a" />
 
+<img width="688" height="462" alt="image" src="https://github.com/user-attachments/assets/f55f2edf-a693-4429-a1d0-92e9ff4d1bd2" />
 
+<img width="686" height="463" alt="image" src="https://github.com/user-attachments/assets/57bf9964-6780-40ea-9e29-44089a82211a" />
+
+<img width="687" height="464" alt="image" src="https://github.com/user-attachments/assets/8a3d60e2-c267-4963-9bf1-cbea69415f5d" />
